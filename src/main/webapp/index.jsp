@@ -23,7 +23,7 @@
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">Mouuuuuies</a></li>
-            <li class="nav-items"><a href="#">LPUUU STUDENTS ARE GOOD</a></li>
+            <li class="nav-items"><a href="#">KLE BCA  STUDENTS ARE GOOD</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
             <li class="icon"><a href="#"></a></li>
